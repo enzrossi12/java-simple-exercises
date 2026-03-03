@@ -1,4 +1,4 @@
-package EstudoSwitchCase;
+package Condicoes;
 
 import java.util.Scanner;
 

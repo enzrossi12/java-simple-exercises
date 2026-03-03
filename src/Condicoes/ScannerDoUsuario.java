@@ -1,4 +1,4 @@
-package ScannerDoUsuario;
+package Condicoes;
 
 import java.util.Scanner;
 
